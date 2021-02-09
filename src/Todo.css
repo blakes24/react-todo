@@ -1,0 +1,17 @@
+.Todo {
+	margin: 1em;
+	padding: .1em;
+	position: relative;
+	background-color: rgba(127, 241, 222, 0.747);
+}
+
+.Todo-btns {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.Todo > p {
+	text-align: left;
+	margin-left: 1em;
+}
